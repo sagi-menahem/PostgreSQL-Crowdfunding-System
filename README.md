@@ -4,6 +4,8 @@ This repository contains the SQL code and assignment details for Maman 12, a dat
 
 Task #2 for the 20277 java course of the Open University
 
+The full assignment (in Hebrew) is in the [Task 2.pdf](Task%202.pdf) file.
+
 ## Table of Contents
 
 * [Project Description](#project-description)
