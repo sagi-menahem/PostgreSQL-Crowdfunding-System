@@ -9,7 +9,6 @@ Task #2 for the 20277 java course of the Open University
 * [Project Description](#project-description)
 * [Database Schema](#database-schema)
 * [SQL Queries](#sql-queries)
-* [Instructions](#instructions)
 * [Usage](#usage)
 * [Author](#author)
 
@@ -52,10 +51,6 @@ The `Maman 12.sql` file includes SQL queries to perform the following tasks:
     * The loan with the highest total requested amount for the borrower with the highest total requests.
     * The borrower with the highest total requested loan amount among those who have made repayments.
 
-## Instructions
-
-The original assignment instructions are detailed in [Task 2.pdf](Task%202.pdf).
-
 ## Usage
 
 To use the code in this repository:
@@ -66,4 +61,4 @@ To use the code in this repository:
 
 ## Author
 
-Sagi Menachem.
+Sagi Menahem.
