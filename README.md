@@ -54,14 +54,14 @@ The `Maman 12.sql` file includes SQL queries to perform the following tasks:
 
 ## Instructions
 
-The original assignment instructions are detailed in `Task 2.pdf`. 
+The original assignment instructions are detailed in [Task 2.pdf](Task%202.pdf).
 
 ## Usage
 
 To use the code in this repository:
 
 1.  Ensure you have PostgreSQL installed and running.
-2.  Execute the SQL code in `Maman 12.sql` to create the database schema and populate it with data.
+2.  Execute the SQL code in [Task 2.sql](Task%202.sql) to create the database schema and populate it with data.
 3.  You can then run the provided SQL queries to retrieve and analyze the data as needed.
 
 ## Author
